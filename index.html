@@ -29,8 +29,15 @@
     </div>
     <script>
         var seconds = 0;
+        if (localStorage.getItem("seconds") !== null){
+            seconds = parseInt(localStorage.getItem("seconds"));
+        }
+        else{
+            localStorage.setItem("seconds", seconds.toString());
+        }
         setInterval(function() {
             seconds++;
+            localStorage.setItem("seconds", seconds.toString());
             var minutes = Math.floor(seconds / 60);
             var remainingSeconds = seconds % 60;
             document.getElementById("timer").innerText =  (minutes < 10 ? "0" : "") + minutes + ":" + (remainingSeconds < 10 ? "0" : "") + remainingSeconds;
