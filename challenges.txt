@@ -1,0 +1,33 @@
+--- https://crosswordlabs.com/ acmbpdccrossword12122
+
+TechWord Challenge 1
+
+Processor The brain of a computer, where calculations and processing take place
+Gates The surname of the co-founder of Microsoft and a prominent philanthropist, who has dedicated his wealth to global health and education.
+Encryption The process of securing information or data by encoding it to prevent unauthorized access or use.
+Angel _____ Investor - The term for a person who invests in a startup company, typically providing capital in exchange for equity.
+Fiber _____ Optic - Data transmission technology at the speed of light
+GPT The advanced language model developed by OpenAI, widely known for its natural language processing capabilities
+Blockchain A decentralized and secure digital ledger technology that underlies cryptocurrencies and enables transparent and tamper-resistant record-keeping
+Open ____ Source - A piece of code that is available for use by anyone, can be contributed to by the community
+API A set of rules and protocols that allows different software applications to communicate and interact with each other, enabling seamless integration of functionalities
+Gemini A new and powerful AI model from Google that can understand not just text but also images, videos, and audio
+ACM The world's largest educational and scientific computing society, advancing computing as a science and a profession.
+ 
+
+TechWord Challenge 2
+
+AWS Name of a popular cloud computing service, used by startups worldwide to host their operations. Backed by a company named after a forest
+Product _____ Manager - A job role which is a hybrid of technology and management, responsible for development and serves as a connector between the technology, design and business teams
+Design ______ Thinking - An iterative and human-centric problem-solving approach that emphasizes empathy, collaboration, and experimentation to create innovative solutions
+HTML The standard markup language for creating and designing web pages
+Prototype Initial version of a product used in demos and pitches
+Phishing A type of attack used by which a hacker or a scammer to gain access to a network or account by manipulating the human aspect
+IBM A large company formed in 1911 which has been a core part of technology ever since. Created an AI that won a game of Jeopardy
+Netflix A Video streaming platform that started it's business primarily through snail mail
+Ethereum One of the largest public blockchains that is widely used by developers to build decentralized apps or DApps
+Creativity A trait possesed by artists, entrepreneurs and children
+Python The programming language named after a large snake, known for its simplicity and readability
+
+
+
